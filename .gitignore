@@ -1,0 +1,6 @@
+*.o
+penn-conch
+penn-shell
+*.pch
+a.out
+log
